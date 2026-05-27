@@ -52,6 +52,9 @@
   <a href="https://www.credly.com/users/aaron-correya" target="_blank">
     <img src="https://img.shields.io/badge/Credly-View%20My%20Badges-orange?style=for-the-badge&logo=credly" />
   </a>
+  <a href="https://credentials.newrelic.com/profile/aaroncorreya549787/wallet" target="_blank">
+  <img src="https://img.shields.io/badge/Accredible-Digital%20Credentials-6D5DFC?style=for-the-badge&logo=openbadges&logoColor=white" alt="Accredible Credentials" />
+</a>
 </p>
 
 ---
